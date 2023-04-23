@@ -1,0 +1,7 @@
+{
+  "name": "ooparAssign",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
